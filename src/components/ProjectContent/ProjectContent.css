@@ -1,0 +1,15 @@
+.project img{
+    margin: 20px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 0px 50px 100px 0px rgba(0,0,0,.5);
+}
+.project-detail{
+    display: flex;
+    justify-content: center;
+}
+.project-detail a{
+    text-decoration: none;
+    margin-top: 22px;
+    margin-left: 10px;
+}

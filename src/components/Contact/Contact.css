@@ -1,0 +1,21 @@
+.contact-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.contact-content h1{
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 5px;
+}
+.contact-content p{
+    box-shadow: 0px 50px 100px 0px rgba(0,0,0,.5);
+    padding: 10px;
+    border-radius: 20px;
+    color: gray;
+}
+.input-content{
+    margin-top: 100px;
+}
+.input-content input,textarea{
+    margin-left: 30px;
+}
