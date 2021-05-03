@@ -16,7 +16,7 @@ const About = () => {
                     <img src={image} alt="" />
                     <div style={{ borderLeft: '2px solid lightgray', marginLeft: '20px' }}>
                         <h2>About Me</h2>
-                        <p>I am a junior web developer with More than three months experience i this field</p>
+                        <p>Obviously I'm a web developer.Web Developer with over 3 month + of experience.Experienced with all stages of the development cycle for dynamic web projects.I always try to show unique views to the audience through my design.</p>
                         <a className="resume" href="https://drive.google.com/file/d/1PlgAFnlPzWdqvS3sGROwZ0ZeoOZBZedA/view?usp=sharing">Resume</a>
                     </div>
                 </div>
